@@ -1,0 +1,62 @@
+Creational Patterns (Padrões de Criação): 
+1 - Abstract factory    >>>>
+2 - Builder    >>>>
+Dependency Injection      >>>>
+3 - Factory method    >>>>
+Lazy initialization 
+Multiton 
+Object pool 
+4 - Prototype   +++
+Resource acquisition is initialization (RAII) 
+5 - Singleton    >>>>
+
+Structural Patterns (Padrões Estruturais): 
+6 - Adapter, Wrapper, or Translator     >>>>
+7 - Bridge  +++ 
+8 - Composite   >>>>
+9 - Decorator   >>>>
+Extension object 
+10 - Facade   >>>>
+11 - Flyweight   >>>>
+Front controller 
+Marker 
+Module 
+12 - Proxy  >>>>
+Repository  >>>>
+
+Behavioral Patterns (Padrões Comportamentais): 
+Blackboard 
+13 - Chain of responsibility  >>>>
+14 - Command  >>>>
+15 - Interpreter  +++
+16 - Iterator     >>>> 
+17 - Mediator >>>>
+18 - Memento   +++
+Null object 
+19 - Observer or Publish/subscribe  >>>>
+Servant 
+Specification 
+20 - State  >>>>
+21 - Strategy  >>>>
+22 - Template Method    >>>>
+23 - Visitor  +++
+
+
+Chapter 12: Ten Easy Steps to Create Your Own Patterns . . . . . . . . .281
+Following the Pattern Catalog Style...........................................................283
+Introducing the Veto Pattern ......................................................................283
+1. Intent................................................................................................284
+2. Motivation .......................................................................................285
+3. Applicability....................................................................................285
+4. Structure..........................................................................................285
+5. Participants.....................................................................................286
+6. Collaborations ................................................................................287
+7. Consequences.................................................................................287
+8. Implementation/Sample Code ......................................................288
+9. Known Uses.....................................................................................292
+10. Related Patterns ...........................................................................293
+Getting Your Pattern into a Pattern Catalog .............................................293
+
+
+
+

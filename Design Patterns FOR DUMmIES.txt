@@ -1,0 +1,36 @@
+
+Part III: The Part of Tens ...........................................257
+Chapter 11: Ten More Design Patterns . . . . . . . . . . . . . . . . . . . . . . . . .259
+Creating a Factory Factory: The Abstract Factory Pattern ....................260
+Cloning when You Need It: The Prototype Pattern..................................261
+Decoupling Abstractions from Implementations
+with the Bridge Pattern ...........................................................................262
+Creating Your Own Language: The Interpreter Pattern...........................264
+Forget Me Not: The Memento Pattern .......................................................264
+The Visitor Stops In for a Moment.............................................................266
+Going in Circles with Circular Buffers .......................................................268
+Doing Your Magic Off-Screen with the Double Buffer Pattern................274
+Getting Multiple-Use Objects Out of the
+Recycle Bin Design Pattern .....................................................................277
+Entering the Big Time with the Model/View/Controller Pattern............278
+
+
+
+Chapter 12: Ten Easy Steps to Create Your Own Patterns . . . . . . . . .281
+Following the Pattern Catalog Style...........................................................283
+Introducing the Veto Pattern ......................................................................283
+1. Intent................................................................................................284
+2. Motivation .......................................................................................285
+3. Applicability....................................................................................285
+4. Structure..........................................................................................285
+5. Participants.....................................................................................286
+6. Collaborations ................................................................................287
+7. Consequences.................................................................................287
+8. Implementation/Sample Code ......................................................288
+9. Known Uses.....................................................................................292
+10. Related Patterns ...........................................................................293
+Getting Your Pattern into a Pattern Catalog .............................................293
+
+
+
+

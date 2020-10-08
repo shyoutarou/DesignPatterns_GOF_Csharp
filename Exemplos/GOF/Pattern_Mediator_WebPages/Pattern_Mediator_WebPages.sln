@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_Mediator_WebPages", "Pattern_Mediator_WebPages\Pattern_Mediator_WebPages.csproj", "{7F7A2B5D-7C04-4C47-B711-F7BCBC28A0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7A2B5D-7C04-4C47-B711-F7BCBC28A0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7A2B5D-7C04-4C47-B711-F7BCBC28A0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7A2B5D-7C04-4C47-B711-F7BCBC28A0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7A2B5D-7C04-4C47-B711-F7BCBC28A0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A11F7D-05F7-49B7-8975-C13854FB8E05}
+	EndGlobalSection
+EndGlobal
